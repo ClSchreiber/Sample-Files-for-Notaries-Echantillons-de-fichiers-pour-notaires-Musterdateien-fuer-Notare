@@ -10,3 +10,7 @@ Samplefile 3: Wieviele Wörter befinden sich auf "Seite 1" dieser PDF-Datei? // 
 Samplefile 4: Elektronische Unterschrift(en) validieren // Valider une/les signature/s électronique/s // Validate electronic signature(s)
 
 Samplefile 5: Datum und Uhrzeit des Zeitstempels bestimmen, Zeitstempel validieren // Déterminer la date et l'heure de l'horodatage, valider l'horodatage // Determine date and time of timestamp, validate timestamp
+
+Samplefile 6: Anzahl elektronische Signaturen bestimmen, Signaturen validieren, EzuP-Beglaubigung durchführen (Beglaubigung eines Papierausdrucks eines elektronischen Dokuments), wie viele "Seiten" (Versionen) weist die Datei auf? // Déterminer le nombre de signatures électroniques, valider les signatures, effectuer une légalisation d’un tirage imprimé d’un document électronique selon l'art. 17 OAAE (SR 211.435.1), combien de « pages » (versions) le fichier comporte-t-il? // Determine the number of electronic signatures, validate signatures, perform certification of a paper printout of an electronic document, how many ‘pages’ (versions) does the file have?
+
+Samplefile 7:
