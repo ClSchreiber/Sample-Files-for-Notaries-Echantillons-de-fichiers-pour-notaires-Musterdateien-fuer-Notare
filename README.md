@@ -1,7 +1,7 @@
 # Sample-Files-for-Notaries-Echantillons-de-fichiers-pour-notaires-Musterdateien-fuer-Notare
 Übungsanleitung // instructions pour les exercices // exercise instructions
 
-Samplefile 1: Vergleich Bildlayer und OCR-Layer // Comparaison entre la couche d'image et la couches OCR // Comparison of image layer and OCR layer
+Samplefile 1: Vergleich Bildlayer und OCR-Layer // Comparaison entre la couche d'image et la couche OCR // Comparison of image layer and OCR layer
 
 Samplefile 2: In eine PDF-Datei attachte Dateien // Files attached to a PDF file // Fichiers joints à un fichier PDF
 
@@ -18,3 +18,5 @@ Samplefile 7: Wo sind die Links "https://perma.cc/GH3F-UGX2" "https://perma.cc/Z
 Samplefile 8 und 9: Wie lässt sich zweifelsfrei bestimmen, ob diese beiden Dateien identisch sind? // Comment déterminer si ces deux fichiers sont identiques? // How can you determine whether these two files are identical?
 
 Samplefile 8: Enthält diese PDF-Datei den Text "Der Chef der Rechtsabteilung DMV" (ohne Anführungszeichen)? // Ce fichier PDF contient-il le texte «Der Chef der Rechtsabteilung DMV» (sans guillemets) ? // Does this PDF file contain the text “Der Chef der Rechtsabteilung DMV” (without quotation marks)?
+
+Samplefile 10: Weist diese PDF-Datei einen OCR-Layer auf? // Ce fichier PDF comporte-t-il une couche OCR? // Does this PDF file have an OCR layer?
