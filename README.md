@@ -9,4 +9,4 @@ Samplefile 3: Wieviele Wörter befinden sich auf "Seite 1" dieser PDF-Datei? // 
 
 Samplefile 4: Elektronische Unterschrift(en) validieren // Valider une/les signature/s électronique/s // Validate electronic signature(s)
 
-Samplefile 5: 
+Samplefile 5: Datum und Uhrzeit des Zeitstempels bestimmen, Zeitstempel validieren // Déterminer la date et l'heure de l'horodatage, valider l'horodatage // Determine date and time of timestamp, validate timestamp
