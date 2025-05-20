@@ -20,3 +20,5 @@ Samplefile 8 und 9: Wie lässt sich zweifelsfrei bestimmen, ob diese beiden Date
 Samplefile 8: Enthält diese PDF-Datei den Text "Der Chef der Rechtsabteilung DMV" (ohne Anführungszeichen)? // Ce fichier PDF contient-il le texte «Der Chef der Rechtsabteilung DMV» (sans guillemets) ? // Does this PDF file contain the text “Der Chef der Rechtsabteilung DMV” (without quotation marks)?
 
 Samplefile 10: Weist diese PDF-Datei einen OCR-Layer auf? // Ce fichier PDF comporte-t-il une couche OCR? // Does this PDF file have an OCR layer?
+
+Samplefile 11: Weist diese PDF-Datei einen qualifizierten Zeitstempel auf? Sind die e-Signaturen qualifizierte elektronische Signaturen nach ZertES? // Ce fichier PDF comporte-t-il un horodatage qualifié? Les signatures électroniques sont-elles des signatures électroniques qualifiées selon la SCSE? // Does this PDF file have a qualified time stamp? Are the e-signatures qualified electronic signatures according to ZertES?
