@@ -1,7 +1,7 @@
 # Sample-Files-for-Notaries-Echantillons-de-fichiers-pour-notaires-Musterdateien-fuer-Notare
 Übungsanleitung // instructions pour les exercices // exercise instructions
 
-Fragen zu den Samplefiles gerne unter "Issues" hinterlegen.
+Fragen zu den Samplefiles gerne unter "Issues" hinterlegen. // Si vous avez des questions concernant les fichiers d'exemple, veuillez les poser dans la rubrique «Issues». // Please post any questions about the sample files under ‘Issues’.
 
 Samplefile 1: Vergleich Bildlayer und OCR-Layer // Comparaison entre la couche d'image et la couche OCR // Comparison of image layer and OCR layer
 
@@ -15,7 +15,7 @@ Samplefile 5: Datum und Uhrzeit des Zeitstempels bestimmen, Zeitstempel validier
 
 Samplefile 6: Anzahl elektronische Signaturen bestimmen, Signaturen validieren, EzuP-Beglaubigung durchführen (Beglaubigung eines Papierausdrucks eines elektronischen Dokuments), wie viele Versionen weist die Datei auf? // Déterminer le nombre de signatures électroniques, valider les signatures, effectuer une légalisation d’un tirage imprimé d’un document électronique selon l'art. 17 OAAE (SR 211.435.1), combien de versions le fichier comporte-t-il? // Determine the number of electronic signatures, validate signatures, perform certification of a paper printout of an electronic document, how many versions does the file have?
 
-Samplefile 7: Wo sind die Links "https://perma.cc/GH3F-UGX2" "https://perma.cc/Z8YX-XK9R" und "https://perma.cc/HBK4-CCPY" in dieser PDF-Datei gespeichert? // Où se trouvent les liens « https://perma.cc/GH3F-UGX2 », «https://perma.cc/Z8YX-XK9R» et « https://perma.cc/HBK4-CCPY » dans ce fichier PDF ? // Where are the links ‘https://perma.cc/GH3F-UGX2’, ‘https://perma.cc/Z8YX-XK9R’ and ‘https://perma.cc/HBK4-CCPY’ stored in this PDF file?
+Samplefile 7: Wo sind die Links "https://perma.cc/GH3F-UGX2" "https://perma.cc/Z8YX-XK9R" und "https://perma.cc/HBK4-CCPY" in dieser PDF-Datei gespeichert? // Où se trouvent les liens «https://perma.cc/GH3F-UGX2», «https://perma.cc/Z8YX-XK9R» et «https://perma.cc/HBK4-CCPY» dans ce fichier PDF ? // Where are the links ‘https://perma.cc/GH3F-UGX2’, ‘https://perma.cc/Z8YX-XK9R’ and ‘https://perma.cc/HBK4-CCPY’ stored in this PDF file?
 
 Samplefile 8 und 9: Wie lässt sich zweifelsfrei bestimmen, ob diese beiden Dateien identisch sind? // Comment déterminer si ces deux fichiers sont identiques? // How can you determine whether these two files are identical?
 
